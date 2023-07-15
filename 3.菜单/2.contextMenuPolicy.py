@@ -7,3 +7,4 @@ class MyWindow(QWidget):
     def __init__(self):
         super().__init__()
         self.setContextMenuPolicy(Qt.ContextMenuPolicy.ActionsContextMenu)
+
